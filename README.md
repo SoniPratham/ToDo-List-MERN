@@ -1,4 +1,3 @@
-# ToDo-List-MERN
 # To-Do List App
 
 This is a simple To-Do List application built using React, Node.js, Express, MongoDB, and Bootstrap.
