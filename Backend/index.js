@@ -5,7 +5,7 @@ const cors = require('cors');
 
 const app = express();
 const PORT = 3001;
-const MONGODB_URI = 'mongodb+srv://soni:root@todolist.gy1uelq.mongodb.net/test';
+const MONGODB_URI = 'mongodb+srv://soni:xyz@todolist.gy1uelq.mongodb.net/test';
 
 // mongoose.connect(MONGODB_URI, {
 //   useNewUrlParser: true,
